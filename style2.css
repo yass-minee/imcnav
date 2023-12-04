@@ -1,0 +1,51 @@
+.style2{
+    background-image: url(img2.png);
+    font-size: 30px;
+    color: white;
+}
+.style{
+    background-image: url(img.png);
+    font-size: 30px;
+}
+.style3{
+    background-image: url(img4.png);
+    font-size: 25px;
+    color: white;
+}
+header ul{
+    margin-left: 20px;
+    padding-top: 20px;
+    
+   
+}
+header li{
+	display: inline-block;
+	margin:0 0 0 20px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 30px;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    
+}
+a:hover{
+    color: rgb(161, 82, 16);
+	background-color:rgb(242, 190, 155);
+	border-radius: 100px;
+
+}
+nav{
+    margin-left:10%;
+    margin-top: 10%;
+}
+label{
+    color: rgb(241, 98, 85);
+    font-weight: bold;
+}
+section{
+    margin-left: 10%;
+    margin-top: 50px;
+}
